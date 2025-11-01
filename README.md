@@ -1,8 +1,6 @@
 # Student_Result_Analysis_Project
 # Data Science
-
 ### 📊 Student Result Analysis – Key Highlights
-
 1. **Performed Data Cleaning** by handling missing values, fixing inconsistencies, and converting data types for accuracy.  
 2. **Conducted Exploratory Data Analysis (EDA)** to uncover patterns, trends, and category-wise performance using visualizations.  
 3. **Analyzed Score Distributions** (Math, Reading, Writing) across various demographic and lifestyle factors.  
