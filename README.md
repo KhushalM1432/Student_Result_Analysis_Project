@@ -1,6 +1,6 @@
-# Student_Result_Performance_Analysis | Data_Science_Project
+## Student_Result_Performance_Analysis | Data_Science_Project | Python
 
-# Data Science
+## Data Science
 
 ### Project Highlights
 
