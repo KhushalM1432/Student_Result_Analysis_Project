@@ -1,4 +1,4 @@
-## Student_Result_Performance_Analysis | Data_Science & Business_Analytics_Project | Python
+## Student Result Performance Analysis | Data Science & Business Analytics Project | Python
 
 ## Data Science
 
